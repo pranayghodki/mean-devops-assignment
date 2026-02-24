@@ -136,6 +136,22 @@ docker compose down
 
 ---
 
+## 📸 Deployment Screenshots
+
+### ✅ 1. GitHub Actions – CI/CD Success
+![CI/CD Success](screenshots/ci-cd-success.png)
+
+### 🐳 2. Docker Hub Images
+![Docker Hub](screenshots/docker-hub.png)
+
+### ☁️ 3. AWS EC2 Instance Running
+![EC2](screenshots/ec2-instance.png)
+
+### 🚀 4. Application Running on EC2
+![App Running](screenshots/app-running.png)
+
+### 🖥 5. Docker Containers Running on Server
+![Docker PS](screenshots/docker-ps.png)
 # 👨‍💻 Author
 
 Pranay Ghodki  
